@@ -1,0 +1,22 @@
+[default]
+cdp_packages=jdk_bin hadoop_bin tez_minimal_bin tez_bin hive_bin
+
+[jdk_bin]
+cdp_fn=jdk-7u4-linux-x64.tar.gz
+cdp_url=file:///SOMEWHERE/jdk-7u4-linux-x64.tar.gz
+
+[hadoop_bin]
+cdp_fn=hadoop-2.7.1.tar.gz
+cdp_url=file:///SOMEWHERE/hadoop-2.7.1.tar.gz
+
+[tez_minimal_bin]
+cdp_fn=tez-0.7.0-minimal.tar.gz
+cdp_url=file:///SOMEWHERE/tez-0.7.0-minimal.tar.gz
+
+[tez_bin]
+cdp_fn=tez-0.7.0.tar.gz
+cdp_url=file:///SOMEWHERE/tez-0.7.0.tar.gz
+
+[hive_bin]
+cdp_fn=apache-hive-1.2.1-bin.tar.gz
+cdp_url=file:///SOMEWHERE/apache-hive-1.2.1-bin.tar.gz

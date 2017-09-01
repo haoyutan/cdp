@@ -1,0 +1,4 @@
+Name        : CDP Hadoop
+FullName    : CloudDataPlatform Hadoop Distribution
+PackageName : cdp-hadoop
+Version     : 0.9.0

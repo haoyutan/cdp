@@ -1,0 +1,1 @@
+../../lib/magic-script/magic.d
